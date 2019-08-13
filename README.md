@@ -1,4 +1,4 @@
-# MyReads App
+# Labrador: A Library Web App
 This app allows you to search for books and save them into 3 different categories: 'Currently Reading', 'Want to Read', 'Finished Reading'. These categories are called bookshelfs and each books can be moved between bookshelfs as desired. 
 
 # Please follow these steps in order to install and use the MyReads App.
